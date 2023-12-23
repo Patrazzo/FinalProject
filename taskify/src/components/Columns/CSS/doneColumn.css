@@ -1,0 +1,9 @@
+.doneColumn {
+  width: 300px;
+  background: linear-gradient(#029408, #149300);
+  border-radius: 20px;
+  margin: 30px;
+  margin-top: 0;
+  overflow-y: hidden;
+  min-height: 500px;
+}

@@ -1,0 +1,11 @@
+.todoColumn {
+    width: 300px;
+    background: linear-gradient(#8a1f1f, #8a0303);
+    padding: 0px;
+    border-radius: 20px;
+    margin: 30px;
+    margin-top: 0;
+    overflow-y: hidden;
+    min-height: 500px;
+  }
+  

@@ -1,0 +1,9 @@
+.inprogressColumn {
+  width: 300px;
+  background: linear-gradient(#00545f, #007281);
+  border-radius: 20px;
+  margin: 30px;
+  margin-top: 0;
+  overflow-y: hidden;
+  min-height: 500px;
+}
