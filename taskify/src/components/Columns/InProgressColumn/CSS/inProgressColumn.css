@@ -1,3 +1,14 @@
+.inprogressColumn {
+  width: 300px;
+  background: linear-gradient(#00545f, #007281);
+  border-radius: 20px;
+  margin: 30px;
+  margin-top: 0;
+  overflow-y: hidden;
+  min-height: 500px;
+  z-index: 3;
+}
+
 .name {
   display: flex;
   justify-content: center;
@@ -12,16 +23,5 @@
 .tasks {
   max-height: 440px; 
   overflow-y: auto;
-}
-
-.task {
-  background-color: #252525;
-  color: #a4a4a4;
-  margin: 10px;
-  padding: 10px;
-  border-radius: 20px;
-  min-height: 60px;
-  font-size: 10px;
-  box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.3);
 }
 
