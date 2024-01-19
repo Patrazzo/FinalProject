@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: "Taskify", sans-serif; /* Use the font in your styles */
-  overflow: hidden;
+  
 }
 @font-face {
   font-family: "Taskify";
